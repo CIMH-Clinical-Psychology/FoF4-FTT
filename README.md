@@ -1,2 +1,7 @@
 # FoF4-FTT
-Code for the Field of Focus study the effect of sleep on sequence motor memory
+
+admin repo, the real repo is hosted internally on our gitlab server.
+
+
+
+here I collect issues and document stuff
